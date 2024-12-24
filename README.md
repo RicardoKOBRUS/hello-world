@@ -1,6 +1,11 @@
 # SandBox V 0.0.2
 SandBox PRJT repository
 This is a git tracked folder to experiment with the SandBox project.
+
+V 0.0.3 >> 12/24/24
+   * 3rd Draft
+   * another to test out pull
+
 V 0.0.2 >> 12/23/24
    * 2nd Draft
    * added to github
